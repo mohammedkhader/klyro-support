@@ -1,4 +1,4 @@
-# Klyro: Lightning Runner - support site
+# Klyro: Charge & Strike - support site
 
 Support page and privacy policy for the Klyro mobile game, served with GitHub Pages.
 
